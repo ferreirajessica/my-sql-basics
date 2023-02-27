@@ -1,2 +1,2 @@
 SELECT supplier_id from purchase_orders
-  WHERE supplier_id  >= 1 AND supplier_id <= 3;
+  WHERE supplier_id  = 1 Or supplier_id = 3;
