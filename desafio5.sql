@@ -1,1 +1,2 @@
-SELECT * FROM products LIMIT 13 OFFSET 3;
+(SELECT id FROM products ORDER BY id DESC LIMIT 5)
+  ORDER BY id ASC;
