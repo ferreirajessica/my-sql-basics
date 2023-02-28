@@ -20,7 +20,7 @@ INSERT INTO order_details (
     NULL,
     129
   ),
-  VALUES (
+ (
     69,
     80,
     15.0000,
